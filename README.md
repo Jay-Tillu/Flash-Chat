@@ -1,32 +1,49 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Jay-Tillu/Flash-Chat/master/GitHub%20Assets/logo.png" alt="YouTube app logo" width="120" height="120">
+  </a>
+</p>
+
+<h3 align="center">Flash Chat</h3>
 
 
-# Flash Chat ⚡️
+<p align="center">
+  <img src="https://img.shields.io/github/issues/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/forks/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/stars/Jay-Tillu/Xylophone">
+</p>
 
-## Our Goal
+<p align="center">
+Chat app using Cloud Firestore.
+</p>
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+## Learnings
 
+* How to incorporate Firebase into your Flutter projects.
+* How to use Firebase authentication to register and sign in users.
+* How to create beautiful animations using the Flutter Hero widget.
+* How to create custom aniamtions using Flutter's animation controller.
+* Learn all about mixins and how they differ from superclasses.
+* Learn about Streams and how they work.
+* Learn to use ListViews to build scrolling views.
+* How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-## What you will create
+    
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+## Screenshots
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jay-Tillu/Flash-Chat/master/GitHub%20Assets/chat%20app.gif">
+</p>
 
-## What you will learn
+## Plugins
 
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+* animated_text_kit: ^2.0.0
+* firebase_core: ^0.4.4
+* cloud_firestore: ^0.13.3
+* firebase_auth: ^0.15.4
+* modal_progress_hud: ^0.1.3
 
+## Technologies
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+* Flutter -- version 1.12.13+hotfix.8
+* Dart -- version 2.7.1
